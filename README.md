@@ -1,5 +1,5 @@
 # FinancialAI
-Personalized assistant in a financial field containing status, crpytocoin, stockmarket shares analize and dailyreport generation with AI.
+Personalized assistant in a financial field containing status, cryptocoins, stockmarket shares analize and dailyreport generation with AI.
 
 
 It's in demo version, still need to have improvements on agents.
